@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;DataStructures.GenericTreeNodeUse&apos; to &apos;GenericTreeUse&apos;&#x0D;&#x0A;- Original project: &apos;codingninja&apos;&#x0D;&#x0A;- Original element: &apos;DataStructures.GenericTreeNodeUse&apos;&#x0D;&#x0A;- Renamed element: &apos;DataStructures.GenericTreeUse&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GenericTreeNodeUse&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;DataStructures{GenericTreeNodeUse.java[GenericTreeNodeUse" matchStrategy="1" name="GenericTreeUse" qualified="false" references="true" similarDeclarations="false" stamp="1490951966109" textual="false" version="1.0"/>
+</session>

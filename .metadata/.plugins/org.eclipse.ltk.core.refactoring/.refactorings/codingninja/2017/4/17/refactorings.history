@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;NewDataStructure.Edeg&apos; to &apos;Edge&apos;&#x0D;&#x0A;- Original project: &apos;codingninja&apos;&#x0D;&#x0A;- Original element: &apos;NewDataStructure.Edeg&apos;&#x0D;&#x0A;- Renamed element: &apos;NewDataStructure.Edge&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Edeg&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;NewDataStructure{Edeg.java[Edeg" matchStrategy="1" name="Edge" qualified="false" references="true" similarDeclarations="false" stamp="1493431225375" textual="false" version="1.0"/>
+</session>
